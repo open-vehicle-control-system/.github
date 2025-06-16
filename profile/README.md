@@ -1,6 +1,6 @@
 # OVCS
 
-![OVCS1](https://github.com/Spin42/ovcs-articles-fr/blob/main/engine_bay.jpg)
+![OVCS1](https://github.com/Spin42/ovcs-articles-fr/blob/main/ovcs_overview.png)
 
 ## What is OVCS?
 
